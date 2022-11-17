@@ -7,7 +7,7 @@ Project created in Django 4.1.3. Application which enables checking the weather 
 
 ## Features
 
-- providing data abot the weather for the chosen city
+- providing data about the weather for the chosen city
 - search field for city selection
 
 
