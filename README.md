@@ -1,7 +1,7 @@
 
 # Weather Spotter
 
-Project created in Django 4.1.3. Application which enables checking the weather conditions (like temperature, pressure, wind) for the chosen city based on the coordinates. User needs to type city name in the search field. This aplication was built using API of Openweathermap.org
+Project created in Django 4.1.3. Application which enables checking the weather conditions (like temperature, pressure, wind) for the chosen city based on the coordinates. User needs to type the city name in the search field. This aplication was built using API of Openweathermap.org
 
 
 
