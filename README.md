@@ -14,7 +14,7 @@ Project created in Django 4.1.3. Application which enables checking the weather 
 
 ## Tech Stack
 
-**Backend:** Python 3.10.7, Django 4.1.3, VSC
+**Backend:** Python 3.10.7, Django 4.1.3, VSC.
 
 **Frontend:** HTML
 
